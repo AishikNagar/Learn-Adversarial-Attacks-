@@ -17,5 +17,6 @@ Some useful online articles are listed below:
  
   * [Siraj Raval's Explanation of Adversial Netoworks](https://www.youtube.com/watch?v=JjlV62_kGUc)
   * [Ian Goodfellow's lecture on adversarial attacks in Standford Unitersity](https://www.youtube.com/watch?v=CIfsB_EYsVI)
+  * [A very cool and short video giving an overview on Adversarial Examples and the "One Pixel attack" by Two Minute Papers](https://www.youtube.com/watch?v=AOZw1tgD8dA)
   
 **This Website lists published white-box defenses to adversarial examples that have been open-sourced, along with third-party analyses / security evaluations that have been open-sourced:** https://www.robust-ml.org/defenses/
